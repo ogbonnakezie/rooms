@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rooms/static/css/main.5f2a131e.chunk.css",
+    "main.js": "/rooms/static/js/main.0a9ebdff.chunk.js",
+    "main.js.map": "/rooms/static/js/main.0a9ebdff.chunk.js.map",
+    "runtime-main.js": "/rooms/static/js/runtime-main.6cb3460d.js",
+    "runtime-main.js.map": "/rooms/static/js/runtime-main.6cb3460d.js.map",
+    "static/js/2.ad7a39f8.chunk.js": "/rooms/static/js/2.ad7a39f8.chunk.js",
+    "static/js/2.ad7a39f8.chunk.js.map": "/rooms/static/js/2.ad7a39f8.chunk.js.map",
+    "static/js/3.3abe3e2f.chunk.js": "/rooms/static/js/3.3abe3e2f.chunk.js",
+    "static/js/3.3abe3e2f.chunk.js.map": "/rooms/static/js/3.3abe3e2f.chunk.js.map",
+    "index.html": "/rooms/index.html",
+    "static/css/main.5f2a131e.chunk.css.map": "/rooms/static/css/main.5f2a131e.chunk.css.map",
+    "static/js/2.ad7a39f8.chunk.js.LICENSE.txt": "/rooms/static/js/2.ad7a39f8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rooms/static/media/room-2.48c60181.jpeg",
+    "static/media/loading-gear.00da0785.gif": "/rooms/static/media/loading-gear.00da0785.gif",
+    "static/media/logo.54a9b9cb.svg": "/rooms/static/media/logo.54a9b9cb.svg",
+    "static/media/room-1.05b90599.jpeg": "/rooms/static/media/room-1.05b90599.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cb3460d.js",
+    "static/js/2.ad7a39f8.chunk.js",
+    "static/css/main.5f2a131e.chunk.css",
+    "static/js/main.0a9ebdff.chunk.js"
+  ]
+}
